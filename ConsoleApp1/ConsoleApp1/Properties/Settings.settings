@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConsoleApp1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SuitsURI" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ConsoleApp1.Data.suits.json</Value>
+    </Setting>
+    <Setting Name="ValuesURI" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ConsoleApp1.Data.values.json</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
